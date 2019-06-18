@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="83713" started-at="2019-06-17T11:10:08Z" finished-at="2019-06-17T11:11:32Z">
+  <suite name="Default suite" duration-ms="78642" started-at="2019-06-18T04:44:27Z" finished-at="2019-06-18T04:45:46Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="83713" started-at="2019-06-17T11:10:08Z" finished-at="2019-06-17T11:11:32Z">
+    <test name="Default test" duration-ms="78642" started-at="2019-06-18T04:44:27Z" finished-at="2019-06-18T04:45:46Z">
       <class name="com.training.sanity.tests.test_week1">
-        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.test_week1@66d33a]" name="setUpBeforeClass" is-config="true" duration-ms="32391" started-at="2019-06-17T16:40:08Z" finished-at="2019-06-17T16:40:41Z">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.test_week1@66d33a]" name="setUpBeforeClass" is-config="true" duration-ms="45145" started-at="2019-06-18T10:14:27Z" finished-at="2019-06-18T10:15:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBeforeClass -->
-        <test-method status="PASS" signature="registration()[pri:1, instance:com.training.sanity.tests.test_week1@66d33a]" name="registration" duration-ms="28256" started-at="2019-06-17T16:40:41Z" finished-at="2019-06-17T16:41:09Z">
+        <test-method status="PASS" signature="registration()[pri:1, instance:com.training.sanity.tests.test_week1@66d33a]" name="registration" duration-ms="13149" started-at="2019-06-18T10:15:12Z" finished-at="2019-06-18T10:15:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registration -->
-        <test-method status="PASS" signature="validLoginTest()[pri:2, instance:com.training.sanity.tests.test_week1@66d33a]" name="validLoginTest" duration-ms="7524" started-at="2019-06-17T16:41:09Z" finished-at="2019-06-17T16:41:16Z">
+        <test-method status="PASS" signature="validLoginTest()[pri:2, instance:com.training.sanity.tests.test_week1@66d33a]" name="validLoginTest" duration-ms="7125" started-at="2019-06-18T10:15:25Z" finished-at="2019-06-18T10:15:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLoginTest -->
-        <test-method status="PASS" signature="change_pwd()[pri:3, instance:com.training.sanity.tests.test_week1@66d33a]" name="change_pwd" duration-ms="15511" started-at="2019-06-17T16:41:16Z" finished-at="2019-06-17T16:41:32Z">
+        <test-method status="PASS" signature="change_pwd()[pri:3, instance:com.training.sanity.tests.test_week1@66d33a]" name="change_pwd" duration-ms="13167" started-at="2019-06-18T10:15:32Z" finished-at="2019-06-18T10:15:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- change_pwd -->
